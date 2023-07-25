@@ -1,1 +1,1 @@
-Este proyecto es una preuba de como clonar un repositorio
+Este proyecto es una prueba de como crear un repositorio y clonarlo desde github
